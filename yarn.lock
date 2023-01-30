@@ -9060,6 +9060,11 @@ std-env@^3.0.1:
   resolved "https://registry.yarnpkg.com/std-env/-/std-env-3.3.1.tgz#93a81835815e618c8aa75e7c8a4dc04f7c314e29"
   integrity sha512-3H20QlwQsSm2OvAxWIYhs+j01MzzqwMwGiiO1NQaJYZgJZFPuAbf95/DiKRBSTYIJ2FeGUc+B/6mPGcWP9dO3Q==
 
+strapi-plugin-custom-api@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-custom-api/-/strapi-plugin-custom-api-1.0.4.tgz#7bebaa161f92b46711d30003344d70ca6fb02845"
+  integrity sha512-rFxrEHxvZ/CVrZH5gb4J7GhBX8yDsR2nXzIoj49CdGvtLMq15Unb46ryBpuq+nvnYfII179WkcOJvwzDlhfLCg==
+
 stream-browserify@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/stream-browserify/-/stream-browserify-3.0.0.tgz#22b0a2850cdf6503e73085da1fc7b7d0c2122f2f"
